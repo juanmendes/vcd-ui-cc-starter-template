@@ -1,4 +1,4 @@
-{
+x{
   "name": "angular",
   "version": "0.0.0",
   "private": true,
@@ -14,8 +14,8 @@
     "@clr/angular": "^2.0.0",
     "@clr/icons": "^2.0.0",
     "@clr/ui": "^2.0.0",
-    "@vcd/i18n": "^0.0.2",
-    "@vcd/ui-components": "^0.0.5",
+    "@vcd/i18n": "next",
+    "@vcd/ui-components": "next",
     "@webcomponents/custom-elements": "^1.2.1",
     "classlist.js": "^1.1.20150312",
     "core-js": "^2.6.2",
